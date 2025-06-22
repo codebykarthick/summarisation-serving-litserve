@@ -1,8 +1,8 @@
 # Serving Model Using LitServe
-The blog post that explains the project in detail can be found [here.]()
+The blog post that explains the project in detail can be found [here.](https://dev.to/sri_harikarthik_909342ac/serving-models-over-rest-api-using-lightning-serve-api-337a)
 
 ## Introduction
-This project tries to use LitServe library to load model from weights obtained during fine-tuning [here.](https://dev.to/sri_harikarthik_909342ac/serving-models-over-rest-api-using-lightning-serve-api-337a) It also tries to dockerise the solution through a `Dockerfile` which will allow us to publish the image and deploy it in any suitable environment to serve easily.
+This project tries to use LitServe library to load model from weights obtained during fine-tuning [here.](https://dev.to/sri_harikarthik_909342ac/fine-tuning-a-language-model-for-summarisation-using-lora-3lg) It also tries to dockerise the solution through a `Dockerfile` which will allow us to publish the image and deploy it in any suitable environment to serve easily.
 
 ## Setup
 Install the requirements listed in `requirements.txt` using the below command (preferably in a fresh venv or conda environment)
